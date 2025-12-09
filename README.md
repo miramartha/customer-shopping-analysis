@@ -99,7 +99,16 @@ Jika ingin menjalankan SQL:
 - Kota X memberikan kontribusi revenue tertinggi  
 - Rata-rata rating konsumen cukup stabil di sebagian besar kategori  
 
-(*Insight lengkap ada di notebook.*)
+---
+
+## ✨ Project Highlights
+
+- 1,000+ customer records analyzed  
+- Full EDA + data cleaning  
+- Visualization using Matplotlib & Seaborn  
+- K-Means clustering with PCA visualization  
+- SQL queries for data exploration  
+- Professional folder structure for real-world analytics workflow  
 
 ---
 
