@@ -17,6 +17,7 @@ Pada proyek ini, saya menganalisis data transaksi pelanggan untuk menemukan insi
 ---
 
 ## 📂 Repository Structure
+
 customer-shopping-analysis/
 │── shopping_trends.csv
 │── notebook/
@@ -65,6 +66,9 @@ Visualisasi mencakup:
 
 ## 🗂️ SQL Files
 
+- [Create Table](sql/create_table.sql)  
+- [Analysis Queries](sql/analysis_queries.sql)
+  
 ### `create_table.sql`
 Membuat struktur tabel untuk dataset *Shopping Trends*.
 
@@ -81,7 +85,7 @@ Kumpulan query analisis:
 ## 🚀 How to Use
 
 ###  Google Colab Notebook
-Buka notebook: notebook/customer_shopping_analysis.ipynb
+Buka notebook: (notebook/customer_shopping_analysis_full.ipynb)
 Lalu jalankan sel satu per satu.
 
 ### 2. SQL
